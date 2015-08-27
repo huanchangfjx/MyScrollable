@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/brcorner/myscrollable/BaseActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/brcorner/myscrollable/BaseFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/brcorner/myscrollable/BaseListAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/brcorner/myscrollable/ColorRandomizer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/brcorner/myscrollable/ConfigurationFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/brcorner/myscrollable/ConfigurationFragmentCallbacks.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/brcorner/myscrollable/FragmentPagerAdapterExt.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/brcorner/myscrollable/LinearListView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/brcorner/myscrollable/ListViewFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/brcorner/myscrollable/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/brcorner/myscrollable/RecyclerAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/brcorner/myscrollable/RecyclerViewFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/brcorner/myscrollable/ScrollViewFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/brcorner/myscrollable/ScrollableDialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/brcorner/myscrollable/ScrollableFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/brcorner/myscrollable/ScrollableInsideFragmentActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/brcorner/myscrollable/TabsLayout.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/brcorner/myscrollable/ViewPagerAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/anim" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/color" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_scrollable_inside_fragment.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_configuration.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_dialog.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_list_view.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_recycler_view.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_scroll_view.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_scrollable.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/view_tab_item.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-w820dp/colors.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scrolllib/src/main/java/com/brcorner/scrolllib/CanScrollVerticallyDelegate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scrolllib/src/main/java/com/brcorner/scrolllib/CloseUpAlgorithm.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scrolllib/src/main/java/com/brcorner/scrolllib/CloseUpAnimatorConfigurator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scrolllib/src/main/java/com/brcorner/scrolllib/CloseUpIdleAnimationTime.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scrolllib/src/main/java/com/brcorner/scrolllib/DefaultCloseUpAlgorithm.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scrolllib/src/main/java/com/brcorner/scrolllib/DipUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scrolllib/src/main/java/com/brcorner/scrolllib/GestureListenerAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scrolllib/src/main/java/com/brcorner/scrolllib/InterpolatorCloseUpAnimatorConfigurator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scrolllib/src/main/java/com/brcorner/scrolllib/OnScrollChangedListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scrolllib/src/main/java/com/brcorner/scrolllib/ScrollableLayout.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scrolllib/src/main/java/com/brcorner/scrolllib/ScrollableScroller.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scrolllib/src/main/java/com/brcorner/scrolllib/SimpleCloseUpIdleAnimationTime.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scrolllib/src/main/res/values/attrs.xml" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
